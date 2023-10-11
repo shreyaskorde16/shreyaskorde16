@@ -2,9 +2,12 @@
 <h1 align="center">Hello 🙏, I'm Machine Learning Engineer</h1>
 <h3 align="center">Turning Data into Predictive Masterpieces💎</h3>
 
+
+
 <img align="right" alt="coding" width="400" src="![image](https://github.com/shreyaskorde16/shreyaskorde16/assets/116307459/680aca26-a138-4d19-abe7-30be3b45d6df)
 ">
 
+I'm passionate about using artificial intelligence and machine learning to open new doors and spur innovation in this field.
 
 - 📫 How to reach me **shreyaskorde16@gmail.com**
 
