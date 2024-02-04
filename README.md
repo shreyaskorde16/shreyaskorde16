@@ -5,7 +5,7 @@
 
 
 <img align="right" alt="coding" width="300" src="https://github.com/shreyaskorde16/shreyaskorde16/blob/main/2103832.png" />
-With a focus on Machine Learning, I'm pursuing a Master of Science in Mechatronics. I'm passionate about using artificial intelligence and machine learning to open new doors and spur innovation in this field.
+I am a passionate Master's student who is motivated by spurring innovation using data science and deep learning. Capable of developing predictive or descriptive models using statistical methods and machine learning techniques in python. I am currently seeking an Internship in Data Science with a modern organization where I can obtain practical experience and contribute to the company's success.
 
 
 - 📫 How to reach me **shreyaskorde16@gmail.com**
