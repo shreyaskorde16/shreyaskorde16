@@ -1,4 +1,4 @@
-![logo](https://github.com/shreyaskorde16/shreyaskorde16/blob/main/head.png)
+![logo](https://github.com/shreyaskorde16/shreyaskorde16/blob/main/linkedIn%20banner.png)
 <h1 align="center">Hello 👋, I'm Data Science Engineer</h1>
 <h3 align="center">Turning Data into Predictive Masterpieces💎</h3>
 
