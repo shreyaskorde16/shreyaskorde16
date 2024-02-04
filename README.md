@@ -3,8 +3,6 @@
 <h3 align="center">Turning Data into Predictive Masterpieces💎</h3>
 
 
-
-<img align="right" alt="coding" width="300" src="https://github.com/shreyaskorde16/shreyaskorde16/blob/main/2103832.png" />
 I am a passionate Master's student who is motivated by spurring innovation using data science and deep learning. Capable of developing predictive or descriptive models using statistical methods and machine learning techniques in python. I am currently seeking an Internship in Data Science with a modern organization where I can obtain practical experience and contribute to the company's success.
 
 
