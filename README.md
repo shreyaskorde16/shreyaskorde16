@@ -2,7 +2,7 @@
 <h1 align="center">Hello 👋, I'm Data Science Engineer</h1>
 <h3 align="center">Turning Data into Predictive Masterpieces💎</h3>
 
-
+<p align="justify">
 I am a passionate Master's student who is motivated by spurring innovation using data science and deep learning. Capable of developing predictive or descriptive models using statistical methods and machine learning techniques in python. I am currently seeking an Internship in Data Science with a modern organization where I can obtain practical experience and contribute to the company's success.
 
 
